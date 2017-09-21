@@ -1,0 +1,215 @@
+* {
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#wrapper {
+	width: 970px;
+	margin: 0px auto;
+}
+
+#logo {
+	display: inline-block;
+	position: relative;
+	width: 12%;
+	top: 20px;
+	vertical-align: top;
+}
+
+h1 {
+	display: inline-block;
+	color: dimgrey;
+	vertical-align: bottom;
+	font-size: 40pt;
+	font-weight: normal;
+	margin: 0px;
+}
+
+.blue {
+	color: #467498;
+}
+
+.red {
+	color: red;
+}
+
+.teal {
+	color: #467498;
+}
+
+#banner {
+	background: linear-gradient(#467498, #5182AD, #467498);
+	color: white;
+	padding: 15px 0px 15px 10px;
+	margin: 0px;
+	font-weight: lighter;
+	font-size: 20pt;
+}
+
+#main {
+	background: linear-gradient(#EEEEEE, white, white, white, white);
+}
+
+#sidebar {
+	display: inline-block;
+	width: 25%;
+	vertical-align: top;
+	padding: 5px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+#sidebar h4 {
+	font-size: 14pt;
+	margin: 10px 0px 8px 0px;
+}
+
+#sidebar p {
+	margin: 0px;
+}
+
+#watchVideo, #moreResources {
+	width: 100%;
+	padding: 5px 0px 5px 0px;
+	margin-top: 5px;
+	color: white;
+	font-size: 15pt;
+	border-radius: 5px;
+}
+
+#watchVideo {
+	background-color: #5082A6;
+}
+
+#moreResources {
+	background-color: #F87D0F;
+	margin-bottom: 20px;
+}
+
+#advertisement {
+	height: 350px;
+	margin-top: 30px;
+	background-image: url("ad_background.png");
+}
+
+#advertisement h5 {
+	bottom: 120px;
+	color: white;
+	font-size: 18pt;
+	padding-top: 30px;
+	margin: 0px;
+	text-align: center;
+}
+
+#ninja {
+	width: 40%;
+	display: inline;
+	text-align: center;
+	margin: 10px 0px 0px 67px;
+}
+
+#learnMore {
+	width: 60%;
+	padding: 5px 0px 5px 0px;
+	margin: 30px 0px 0px 46px;
+	color: white;
+	font-size: 11pt;
+	border-radius: 5px;
+	background-color: #59CED7;
+}
+
+.content {
+	display: inline-block;
+	width: 70%;
+	vertical-align: top;
+	margin-left: 10px;
+}
+
+.content p {
+	text-align: right;
+	margin: 0px;
+	font-size: 8pt;
+}
+
+#miniBanner {
+	vertical-align: top;
+	margin: 0px;
+}
+
+#miniBanner img {
+	display: inline-block;
+	vertical-align: top;
+}
+
+#home {
+	width: 3%;
+}
+
+#phone {
+	width: 4%;
+	text-align: right;
+	vertical-align: middle;
+	margin-left: 443px; 
+}
+
+#miniBanner p, #miniBanner h2 {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px;
+}
+
+#miniBanner p {
+	font-size: 10pt;
+}
+
+#miniBanner h2 {
+	color: #4ED2E8;
+	vertical-align: middle;
+}
+
+#text h3 {
+	color: #467498;
+	margin: 0px;
+	padding: 5px 0px 5px 0px;
+}
+
+#text p {
+	text-align: left;
+	font-size: 12pt;
+}
+ul, ol {
+	margin: 0px;
+}
+
+#clientServer {
+	display: inline-;
+	width: 50%;
+	text-align: center;
+	margin-left: 200px;
+}
+
+#htmlImg {
+	display: inline-block;
+	width: 18%;
+}
+
+#htmlText {
+	display: inline-block;
+	width: 75%;
+	vertical-align: top;
+	margin-left: 20px;
+}
+
+#htmlBox {
+	border: 5px solid #3C8BC6;
+	padding: 15px;
+	margin-top: 15px;
+}
+
+#htmlBox p {
+	padding-bottom: 5px;
+}
+
+#htmlBox a {
+	color: #467498;
+}
